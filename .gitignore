@@ -1,0 +1,6 @@
+data/
+*.zip
+*.tar
+*.pt
+*.h5
+*.pkl
